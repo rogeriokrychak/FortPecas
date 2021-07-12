@@ -1,0 +1,58 @@
+#git {
+  color: chartreuse;
+}
+#img {
+  float: left;
+  width: 150px;
+  height:128px;
+}
+#topo,#rodape { 
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 1px solid red;
+  clear: both;
+  font-size: 26px;
+}
+a:link {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  font-weight: bolder;
+}
+li {
+  list-style-type: none;
+}
+nav ul{
+  list-style-type: none;
+  padding: 0px;
+  color: black;
+}
+#menu {
+  background-color: gray;
+  color: black;
+  float: left;
+  height: 478px;
+  width: 280px;
+  padding: 0px;
+  text-align: left;
+}
+#conteudo{
+  padding: 5px; 
+  text-indent: 0px;
+  color: black;
+  font-size: 25px;
+}
+#mapa{
+	position: relative;
+	left: 25%;
+	padding-top: 25px; 
+  width: 200px;
+  height: 200px;
+}
+#texto {
+   font: 20px arial;
+   text-align: justify;
+   padding: 10px 10px 10px 10px;
+   list-style-type: none;   
+}
